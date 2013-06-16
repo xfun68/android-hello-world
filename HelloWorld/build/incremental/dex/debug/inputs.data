@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1371391396000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/libs/android-support-v4.jar
+1371391424000 697 f9d0ed5ce30bd435a054d6cad749195d6de4c9c3 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R.class
+1371391424000 478 7bcbccf026eb6c213e4804d1330e60cbfb150854 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$string.class
+1371391424000 413 2540991026ef2f1169441ef6a74cea93b1ab45da /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$drawable.class
+1371391424000 821 052779771f21527b399d7644a783a3e5a3a64fbd /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/MainActivity.class
+1371391424000 349 22d242bb2d992247e04a8d50c1843058d275b0d9 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/BuildConfig.class
+1371391424000 394 f158af3edc5bb5b02d9aee376b06a4aae0031b25 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$menu.class
+1371391424000 399 8084a123ced819c159e0da1d312fbcb1b8b94431 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$id.class
+1371391424000 467 6f40da67e5a1acbc0891003a181822e04b3dfae6 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$dimen.class
+1371391424000 437 495231daac0fca2a4d533c36b492bfe8fc164bc3 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$style.class
+1371391424000 409 a80527ee035f3ad937b676342326e9f2b629fdc3 /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$layout.class
+1371391424000 346 1575f28484078bde215f90b3b31565056f8e326b /Users/twer/AndroidStudioProjects/HelloWorldProject/HelloWorld/build/classes/debug/com/panda/helloworld/R$attr.class
